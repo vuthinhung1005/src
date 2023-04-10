@@ -1,0 +1,7 @@
+đăng nhập, check quyền 
+thêm sửa xóa sản phẩm( phải đăng nhập)
+thêm sửa xóa danh mục (phải đăng nhập)
+upload ảnh 
+validate
+phân trang
+get all, get one, 
